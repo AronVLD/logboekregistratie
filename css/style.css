@@ -1,0 +1,14 @@
+#register form {
+    margin-top:20%
+}
+#footer {
+    min-height: 50px;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font-weight: bolder;
+    font-size: 2em;
+    text-align: center;
+}
+nav {
+    background-color: rgb(16, 16, 16);
+}
